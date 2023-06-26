@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="text-logo.svg"
+   inkscape:export-filename="../../Website/src/assets/text-logo.svg"
+   inkscape:export-xdpi="625.73547"
+   inkscape:export-ydpi="625.73547"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="6.9359943"
+     inkscape:cx="143.815"
+     inkscape:cy="69.708824"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:lockguides="false" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:9.87777px;font-family:Roboto;-inkscape-font-specification:'Roboto Light';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.2"
+       x="43.034012"
+       y="86.94313"
+       id="text507"><tspan
+         sodipodi:role="line"
+         id="tspan505"
+         style="stroke-width:0.2"
+         x="43.034012"
+         y="86.94313" /></text>
+    <g
+       id="g1453"
+       transform="translate(-38.110736,-18.250414)"
+       inkscape:export-filename="../../public/favicon.png"
+       inkscape:export-xdpi="172.37398"
+       inkscape:export-ydpi="172.37398">
+      <ellipse
+         style="fill:#000000;fill-opacity:1;stroke-width:0.168988"
+         id="path622"
+         ry="4.7794051"
+         rx="4.7153287"
+         cy="33.350574"
+         cx="64.680595" />
+      <text
+         xml:space="preserve"
+         style="font-weight:300;font-size:6.20054px;font-family:Cantarell;-inkscape-font-specification:'Cantarell Light';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.125545"
+         x="64.627609"
+         y="35.554672"
+         id="text186"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#ffffff;stroke-width:0.125545"
+           x="64.627609"
+           y="35.554672"
+           id="tspan509">B</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.2"
+       x="47.682461"
+       y="17.858994"
+       id="text1457"><tspan
+         sodipodi:role="line"
+         id="tspan1455"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:7.76111px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:0.2"
+         x="47.682461"
+         y="17.858994">HERBST.</tspan></text>
+    <rect
+       style="fill:#000000;stroke-width:0.149146"
+       id="rect1465"
+       width="33.118118"
+       height="0.45897651"
+       x="29.328604"
+       y="9.8832617" />
+    <rect
+       style="fill:#000000;stroke-width:0.149146"
+       id="rect1549"
+       width="33.118118"
+       height="0.45897651"
+       x="29.328604"
+       y="19.937439" />
+  </g>
+</svg>
