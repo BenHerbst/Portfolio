@@ -22,7 +22,21 @@
             <a class="btn btn-dark px-4 py-3 get-big-small" href="mailto:mail@benherbst.net">mail@benherbst.net</a>
         </div>
     </nav>
-    <div data-scroll-container class="container-xxl">
+    <div id="container">
+        <div data-anchor="Page 1">
+            <div class="vh-100 d-flex justify-content-center align-items-center">
+                <h1>Amir is gay</h1>
+            </div>
+        </div>
+        <div data-anchor="Page 2">
+            <div class="vh-100 d-flex justify-content-center align-items-center">
+                <h1>No, Herbert the Pervert is gay</h1>
+            </div>
+        </div>
+        <div data-anchor="Page 3">jfdklasjf</div>
+        <div data-anchor="Page 4">jfdkslfj</div>
+    </div>
+    <div class="container-xxl">
         <!-- main hero-->
         <div class="d-flex justify-content-center align-items-center flex-column vh-100"
              data-aos="zoom-in-up">
@@ -38,9 +52,10 @@
                 <p>I started programming when I was around 10 years old, starting with Java and JavaFx.
                     I later learned
                     more languages and frameworks like Python, Vue.js or Godot.
+                </p>
                 <p>
-                </p> Nowadays I mainly do web development and
-                game development, using Godot and Nuxt 3.</p>
+                    Nowadays I mainly do web development and
+                    game development, using Godot and Nuxt 3.</p>
                 <p>I am currently 14 years old and I live in Germany. I currently build a dev and medium alternative
                     🔥🔥🔥</p>
                 <p>Feel free to contact me, scroll down to see my projects!</p>
@@ -195,7 +210,9 @@ import AOS from "aos";
 
 if (process.client) {
     AOS.init();
-    // const LocomotiveScrollPromise = () => import('locomotive-scroll');
+    const PageablePromise = () => import('pageable/dist/pageable.min');
+    const Pageable = await PageablePromise();
+    const PageableInstance = new Pageable.default("#container");
     // const LocomotiveScroll = await LocomotiveScrollPromise();
     // const scroll = new LocomotiveScroll.default({
     //     el: document.querySelector('[data-scroll-container]'),
