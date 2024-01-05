@@ -2,7 +2,7 @@ repo_name: BenHerbst/Portfolio
 report_id: cc7aa37035a7a6b44efb6f5c39eb5b39
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-18T21:49:43+00:00'
+timestamp: '2024-01-05T08:20:54+00:00'
 requested_by: BenHerbst
 provider: github
 branch: master
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
   detection_source: package.json
   last_updated_by: root
   last_updated_on: 2023-06-26 03:55:31.000000000 Z
@@ -29,6 +30,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/BenHerbst/Portfolio
   detection_source: Repo Metadata
 - name: Bootstrap
   description: Simple and flexible HTML, CSS, and JS for popular UI components and
@@ -54,6 +56,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
   detection_source: package.json
   last_updated_by: root
   last_updated_on: 2023-06-26 03:55:31.000000000 Z
@@ -66,6 +69,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
   detection_source: package.json
   last_updated_by: root
   last_updated_on: 2023-06-26 03:55:31.000000000 Z
@@ -77,6 +81,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio
   detection_source: Repo Metadata
 - name: npm
   description: The package manager for JavaScript.
@@ -86,6 +91,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
   detection_source: package.json
   last_updated_by: root
   last_updated_on: 2023-06-26 03:55:31.000000000 Z
