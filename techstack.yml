@@ -1,0 +1,125 @@
+repo_name: BenHerbst/Portfolio
+report_id: cc7aa37035a7a6b44efb6f5c39eb5b39
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-05T08:20:54+00:00'
+requested_by: BenHerbst
+provider: github
+branch: master
+detected_tools_count: 9
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: root
+  last_updated_on: 2023-06-26 03:55:31.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/BenHerbst/Portfolio
+  detection_source: Repo Metadata
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 5.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: root
+  last_updated_on: 2023-06-26 03:55:31.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: root
+  last_updated_on: 2023-06-26 03:55:31.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: root
+  last_updated_on: 2023-06-26 03:55:31.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: root
+  last_updated_on: 2023-06-26 03:55:31.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 18.16.18
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: root
+  last_updated_on: 2023-06-26 03:55:31.000000000 Z
+- name: nuxt
+  description: A minimalistic framework for server-rendered Vue.js applications
+  package_url: https://www.npmjs.com/nuxt
+  version: 3.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17986/default_3c26cdeaec6eea61500856203ee8d97e81b93f76.png
+  detection_source_url: https://github.com/BenHerbst/Portfolio/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: root
+  last_updated_on: 2023-06-26 03:55:31.000000000 Z
